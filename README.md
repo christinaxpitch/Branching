@@ -1,5 +1,7 @@
 ## Git Cheatsheet
 
+Summary of useful 'git' commands.
+
 ### Basic Commands
 * 'git init' - Initialize local git repository
 * 'git status' - Show status of working directory
@@ -13,3 +15,4 @@
  * 'git branch' - List branches in current repository
  * 'git branch someBranch' - Create branch 'someBranch'
  * 'git checkout someBranch' - Move to branch 'someBranch'
+ * 'git checkout -b otherBranch' - Create and checkout 'otherBranch'
